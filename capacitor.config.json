@@ -1,0 +1,7 @@
+{
+  "appId": "ma.ofppt.justdoeat",
+  "appName": "Just Do Eat",
+  "webDir": "www",
+  "backgroundColor": "#F8F0E6",
+  "android": { "allowMixedContent": false }
+}
