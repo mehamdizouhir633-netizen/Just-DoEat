@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Just Do Eat">
+  <rect width="512" height="512" rx="116" fill="#097770"/>
+  <circle cx="256" cy="256" r="196" fill="#0b8a82"/>
+  <!-- téléphone -->
+  <rect x="146" y="70" width="220" height="372" rx="46" fill="#F8F0E6"/>
+  <rect x="164" y="104" width="184" height="304" rx="28" fill="#fffaf2"/>
+  <rect x="226" y="84" width="60" height="9" rx="4.5" fill="#E0CDBE"/>
+  <circle cx="256" cy="425" r="8" fill="#E0CDBE"/>
+  <!-- cloche / bol -->
+  <path d="M190 292 a66 66 0 0 1 132 0z" fill="#EDCA82"/>
+  <rect x="178" y="292" width="156" height="14" rx="7" fill="#097770"/>
+  <circle cx="256" cy="212" r="9" fill="#097770"/>
+  <path d="M256 221 v12" stroke="#097770" stroke-width="9" stroke-linecap="round"/>
+  <!-- vapeur -->
+  <path d="M224 190 q-10 -16 0 -30 q10 -14 0 -28" fill="none" stroke="#A9C0A6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M288 190 q-10 -16 0 -30 q10 -14 0 -28" fill="none" stroke="#A9C0A6" stroke-width="9" stroke-linecap="round"/>
+  <!-- coche de commande -->
+  <circle cx="256" cy="352" r="26" fill="#097770"/>
+  <path d="M243 352 l9 9 l17 -19" fill="none" stroke="#F8F0E6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
